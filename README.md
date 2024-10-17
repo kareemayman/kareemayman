@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Kareem Ayman
+# Hi there 👋 I'm Kareem Ayman
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on Frontend Projects<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Web Dev, Trading, AI
 
 
