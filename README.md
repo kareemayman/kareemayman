@@ -3,7 +3,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Kareem Ayman! ➤ **`</>`** **`>_`** 👨‍💻🌐
 
 ## 💫 About Me:
-<div align="right"><img alt="Confused" src="confused.gif" align="right" height="200"/></div>
+<img alt="Confused" src="confused.gif" align="right" height="100"/>
 🔭 I’m currently working on Frontend Projects<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Web Dev, Trading, AI, & Music Production
 
 ## 🌐 Socials:
