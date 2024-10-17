@@ -2,12 +2,6 @@
 
 ## 💫 About Me:
 🔭 I’m currently working on Frontend Projects<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Web Dev, Trading, AI, & Music Production
-<div align="right" style="display: inline">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
-</div>
-
-###
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kareemaymann10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCUfUH4y28mILAFL8kES_kQg) 
