@@ -3,12 +3,10 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Kareem Ayman! ➤ **`</>`** **`>_`** 👨‍💻🌐
 
 ## 💫 About Me:
-<!-- <img alt="Confused" src="confused.gif" align="right" height="100"/> -->
+<!-- <img alt="Confused" src="confused.gif" align="right" height="200"/> -->
 <img alt="Flow State" src="flow-state.gif" align="right" height="200"/>
 🔭 I’m currently working on Frontend Projects<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Web Dev, Trading, AI, & Music Production
-
-
-
+<br><br><br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kareemaymann10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@prodkriko) 
