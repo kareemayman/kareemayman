@@ -4,7 +4,7 @@
 <h3 align="center"><em>Junior Frontend Web Developer</em></h3>
 
 ## 💫 About Me:
-<img alt="Confused" src="confused.gif" align="right" height="150"/>
+<img alt="profile-pic" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" align="right" height="150"/>
 🔭 I’m currently working on Frontend Projects<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Web Dev, Trading, AI, & Music Production
 <br><br><br><br>
 
