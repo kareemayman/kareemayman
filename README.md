@@ -1,11 +1,11 @@
 <img src="banner.png" alt="banner" /> 
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Kareem Ayman! ➤ **`</>`** **`>_`** 👨‍💻🌐
-<h3 align="center"><em>Junior Frontend Web Developer</em></h3>
+<h3 align="center"><em><b>Frontend Web Developer</b></em></h3>
 
 ## 💫 About Me:
 <img alt="programmer cat" src="programmerCat.gif" align="right" height="150"/>
-🔭 I’m currently working on <b>VanillaJS</b> Projects<br>🌱 I’m currently learning <b>ReactJS</b><br>💬 Ask me about <b>Web Dev</b>, <b>Trading</b>, & <b>AI</b>.
+🔭 I’m currently working on <b>VanillaJS</b> Projects<br>🌱 I’m currently learning <b>ReactJS</b><br>💬 Ask me about <b>Web Dev</b>, <b>Trading</b>, & <b>AI</b>
 <br><br><br><br>
 
 ## 🌐 Socials:
