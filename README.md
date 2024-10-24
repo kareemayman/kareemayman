@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 <img alt="programmer cat" src="programmerCat.gif" align="right" height="150"/>
-🔭 I’m currently working on **VanillaJS** Projects<br>🌱 I’m currently learning **ReactJS**<br>💬 Ask me about Web Dev, Trading, AI, & Music Production
+🔭 I’m currently working on <b>VanillaJS</b> Projects<br>🌱 I’m currently learning <b>ReactJS</b><br>💬 Ask me about <b>Web Dev</b>, <b>Trading</b>, & <b>AI</b>.
 <br><br><br><br>
 
 ## 🌐 Socials:
