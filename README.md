@@ -6,10 +6,13 @@
 ## 💫 About Me:
 <img alt="programmer cat" src="programmerCat.gif" align="right" height="150"/>
 🔭 I’m currently working on <b>ReactJS</b> Projects<br>🌱 I’m currently learning <b>TailwindCSS</b><br>👨‍💻 Check some of my projects at <a href="https://kareemayman.github.io/portfolio/">Portfolio</a><br>📄 Read my resume <a href="https://kareemayman.github.io/portfolio/Kareem%20Mohamed%20-%20Resume.pdf">CV</a><br>📫 Reach me at <a href="mailto:kareem.mohamed.ayman@gmail.com">kareem.mohamed.ayman@gmail.com</a><br>
-<br><br>
+
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kareemaymann10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@prodkriko) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kareem-mohamed-ayman)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem.mohamed.ayman@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kareemaymann10/)
+<br>
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vite,vercel,npm,c,cpp,py,sklearn)](https://skillicons.dev)
