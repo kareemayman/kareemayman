@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kareemaymann10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@prodkriko) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vite,npm,c,cpp,py,sklearn,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vite,vercel,npm,c,cpp,py,sklearn)](https://skillicons.dev)
 
 ###
 # 📊 GitHub Stats:
