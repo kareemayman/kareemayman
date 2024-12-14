@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 <img alt="programmer cat" src="programmerCat.gif" align="right" height="150"/>
-🔭 I’m currently working on <b>ReactJS</b> Projects<br>🌱 I’m currently learning <b>TailwindCSS</b><br>👨‍💻 Check some of my projects at <a href="https://kareemayman.github.io/portfolio/">Portfolio</a><br>📄 Read my <a href="https://kareemayman.github.io/portfolio/Kareem%20Mohamed%20-%20Resume.pdf">Resume</a><br>📫 Reach me at <a href="mailto:kareem.mohamed.ayman@gmail.com">kareem.mohamed.ayman@gmail.com</a><br>
+🔭 I’m currently working on <b>ReactJS</b> Projects<br>🌱 I’m currently learning <b>SCSS</b><br>👨‍💻 Check some of my projects at <a href="https://kareemayman.github.io/portfolio/">Portfolio</a><br>📄 Read my <a href="https://kareemayman.github.io/portfolio/Kareem%20Mohamed%20-%20Resume.pdf">Resume</a><br>📫 Reach me at <a href="mailto:kareem.mohamed.ayman@gmail.com">kareem.mohamed.ayman@gmail.com</a><br>
 
 
 ## 🌐 Socials:
