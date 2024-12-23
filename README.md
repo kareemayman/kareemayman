@@ -15,7 +15,11 @@
 <br>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,git,github,vite,vercel,npm,c,cpp,py,sklearn,notion&perline=8)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,git,github,vite,vercel,npm,c,cpp,py,sklearn,notion&perline=8" />
+  </a>
+</p>
 
 ###
 # 📊 GitHub Stats:
