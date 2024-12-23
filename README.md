@@ -24,12 +24,11 @@
 # 📊 GitHub Stats:
 <p align="center">
   <a href="#">
-    <img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kareemayman&theme=aura&hide_border=false" />
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareemayman&theme=aura&hide_border=false" />
   </a>
   <a href="#">
-    <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemayman&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemayman&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
   </a>
-  <br><br><br><br><br><br><br><br>
 </p>
 
 ### ✍️ Random Dev Quote
