@@ -1,5 +1,5 @@
-<img src="banner.png" alt="banner" /> 
-
+<!-- <img src="banner.png" alt="banner" /> 
+-->
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Kareem Ayman! ➤ **`</>`** **`>_`** 👨‍💻🌐
 <h3 align="center"><em><b>Frontend Web Developer</b></em></h3>
 
@@ -31,8 +31,9 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemayman&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
   </a>
 </p>
-
+<!--
 ### ✍️ Random Dev Quote
    <a href="#">
     <img height=200 align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   </a>
+-->
