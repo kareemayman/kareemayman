@@ -23,9 +23,9 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-<a href="#">
+<!-- <a href="#">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareemayman&theme=aura&hide_border=false" />
-  </a>
+  </a> -->
   <br><br>
   <a href="#">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemayman&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
