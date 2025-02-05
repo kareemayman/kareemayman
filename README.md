@@ -17,7 +17,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,git,github,vite,vercel,npm,c,cpp,py,sklearn,notion&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,tailwind,git,github,vite,vercel,npm,figma,c,cpp,py,sklearn,notion&perline=9" />
   </a>
 </p>
 
