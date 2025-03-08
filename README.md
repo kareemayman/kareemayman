@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 <img alt="programmer cat" src="programmerCat.gif" align="right" height="150"/>
-🔭 I’m currently working on <b>ReactJS</b> Projects<br>🌱 I’m currently learning <b>Next.js</b><br>👨‍💻 Check some of my projects at <a href="https://kareemayman.github.io/portfolio/">Portfolio</a><br>📄 Read my <a href="https://kareemayman.github.io/portfolio/Kareem%20Ayman%20-%20Resume.pdf">Resume</a><br>📫 Reach me at <a href="mailto:kareem.mohamed.ayman@gmail.com">kareem.mohamed.ayman@gmail.com</a><br>
+🔭 I’m currently working on <b>Next.js</b> Projects<br>🌱 I’m currently learning <b>Next.js</b><br>👨‍💻 Check some of my projects at <a href="https://kareemayman.github.io/portfolio/">Portfolio</a><br>📄 Read my <a href="https://kareemayman.github.io/portfolio/Kareem%20Ayman%20-%20Resume.pdf">Resume</a><br>📫 Reach me at <a href="mailto:kareem.mohamed.ayman@gmail.com">kareem.mohamed.ayman@gmail.com</a><br>
 
 
 ## 🌐 Socials:
@@ -17,15 +17,15 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,sass,tailwind,git,github,vite,vercel,npm,figma,c,cpp,py,notion&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,git,github,vite,vercel,npm,figma,c,cpp,py,notion&perline=9" />
   </a>
 </p>
 
 # 📊 GitHub Stats:
 <p align="center">
-<!-- <a href="#">
+<a href="#">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareemayman&theme=aura&hide_border=false" />
-  </a> -->
+  </a>
   <br><br>
   <a href="#">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemayman&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
